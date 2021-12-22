@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**liwnstar/liwnstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://instagram.com/liwnstar" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://sptfy.com/liwn" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+       <a href="https://steamcommunity.com/id/liwn" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
+</p>
 
-Here are some ideas to get you started:
+    
+<div>
+    <div align="center">
+    <img src="https://count.getloli.com/get/@:liwnstar" alt=":liwnstar" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <a href="https://discord.com/users/289425704305819660" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/289425704305819660">
+   </a>
+</div>
